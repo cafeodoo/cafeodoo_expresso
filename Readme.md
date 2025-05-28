@@ -29,3 +29,11 @@ Para empresas que querem ter um controle enxuto do negócio. Assim como um café
 - Compras: Fornecedores - Cotações - Recebimento - Controle de Faturas.
 
 - Relatórios: Gerais.
+
+## Modelos de negócios e opções de implantação para o segmento de varejo (alimentos e bebidas):
+
+**CafeOdoo-Loja** - ERP com plataforma de e-commerce nativa - tudo customizado para a loja do parceiro. Integrações de fábrica com meios de pagamento, operadores logísticos, emissão de nota fiscal (comércio), Whatsapp, redes sociais etc.
+
+**CafeOdoo-Delivery** - ERP com plataforma de e-commerce nativa - tudo customizado para a loja do parceiro. Integrações de fábrica com meios de pagamento, operadores logísticos, emissão de nota fiscal (serviço), Whatsapp, redes sociais etc.
+
+**CafeOdoo-Parceria-MC** - Plataforma de e-commerce padrão Mercado em Casa Delivery para loja e entregadores.  Integrações de fábrica com meios de pagamento, operadores logísticos, emissão de nota fiscal (comércio e serviço), Whatsapp, redes sociais etc.
