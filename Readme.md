@@ -37,3 +37,5 @@ Para empresas que querem ter um controle enxuto do negócio. Assim como um café
 **CafeOdoo-Delivery** - ERP com plataforma de e-commerce nativa - tudo customizado para a loja do parceiro. Integrações de fábrica com meios de pagamento, operadores logísticos, emissão de nota fiscal (serviço), Whatsapp, redes sociais etc.
 
 **CafeOdoo-Parceria-MC** - Plataforma de e-commerce padrão Mercado em Casa Delivery para loja e entregadores.  Integrações de fábrica com meios de pagamento, operadores logísticos, emissão de nota fiscal (comércio e serviço), Whatsapp, redes sociais etc.
+
+Em análise o modelo de franquia.
